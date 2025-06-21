@@ -9,14 +9,19 @@ params:
     subtitle: "I'm a software engineer and I like to build things."
     imageUrl: "aj.png" # optional
     imageTitle: "Call me AJ" # optional
-    imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
+    imageWidth: 150 # custom size
+    imageHeight: 150 # custom size
 
   socialIcons: # optional
     - name: "github"
       url: "https://github.com/proahmedjaved"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/ahmedjaved701/"
+    - name: "twitter"
+      url: "https://twitter.com/ahmed_javed_se"
+    - name: "discord"
+      url: "https://discord.gg/DsJQepgq92"
+
   ShowBreadCrumbs: true # optional
   ShowReadingTime: true # optional
   # ShowShareButtons: true # optional
