@@ -1,0 +1,13 @@
+/* @font-face { */
+/*   font-family: "CascadiaCove"; */
+/*   src: url("/fonts/GohuFont11NerdFontMono-Regular.ttf") format("truetype"); */
+/* } */
+/**/
+@font-face {
+  font-family: "CascadiaCove";
+  src: url("/fonts/GohuFont14NerdFontMono-Regular.ttf") format("truetype");
+}
+
+body {
+  font-family: "CascadiaCove";
+}

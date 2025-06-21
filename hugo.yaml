@@ -1,0 +1,31 @@
+baseURL: https://ahmedjaved.dev/
+languageCode: en-us
+title: ahmedjaved.dev
+theme: ["PaperMod"]
+params:
+  profileMode:
+    enabled: true
+    title: "Ahmed Javed" # optional default will be site title
+    subtitle: "I'm a software engineer and I like to build things."
+    imageUrl: "aj.png" # optional
+    imageTitle: "Call me AJ" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/proahmedjaved"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/ahmedjaved701/"
+  ShowBreadCrumbs: true # optional
+  ShowReadingTime: true # optional
+  # ShowShareButtons: true # optional
+  # ShowPostNavLinks: true # optional
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Blog
+      url: /blog/
+      weight: 2
